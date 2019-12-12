@@ -17,7 +17,7 @@ pip install -r requirements.txt
 1. get tweet via twitter API
 2. get FX trade data
 3. preprocessing datas
-4. predict
+4. predict trend
 
 # License
 None
